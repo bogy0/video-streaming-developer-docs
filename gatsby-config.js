@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/video-streaming-developer-docs`,
   siteMetadata: {
     title: 'IBM Video Streaming Developers',
     description:
