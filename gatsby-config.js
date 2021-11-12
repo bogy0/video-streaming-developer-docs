@@ -22,7 +22,7 @@ module.exports = {
       options: {
         isSearchEnabled: true,
         repository: {
-          baseUrl: 'https://github.com/IBM/video-streaming-developer-docs',
+          baseUrl: 'https://github.com/bogy0/video-streaming-developer-docs',
           subDirectory: '',
           branch: 'master',
         },
